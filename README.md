@@ -12,6 +12,5 @@ torchvision==0.15.1+cu117
 torchaudio==2.0.1+cu117
 
 # Additional Required Libraries
-medmnist
 matplotlib
 scikit-learn
