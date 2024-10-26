@@ -19,3 +19,4 @@ This project requires the following libraries and packages:
 ### Additional Libraries
 - **matplotlib**
 - **scikit-learn**
+- - **medmnist**
